@@ -3,4 +3,6 @@
 ###### A modern, concise, no hassle application that allows sports instructors to help each student efficiently!
 > Please refer to this [google drive link](https://drive.google.com/drive/folders/1WrG2WeJLghRqBOeAX8X3fPGEQROWC7pz?usp=sharing "Tik App development process") for documentaion of the development process for this app.
 
-# Due to a lot of ongoing projects, classes, and genreal life stuff the documentation for this repo is still on the back burner ✌
+
+
+### Due to a lot of ongoing projects, classes, and genreal life stuff the documentation for this repo is still on the back burner ✌
