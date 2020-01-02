@@ -3,6 +3,10 @@
 ###### A modern, concise, no hassle application that allows sports instructors to help each student efficiently!
 > Please refer to this [google drive link](https://drive.google.com/drive/folders/1WrG2WeJLghRqBOeAX8X3fPGEQROWC7pz?usp=sharing "Tik App development process") for documentaion of the development process for this app.
 
+The project uses authentication that's built from scratch, user id and password is encrypted using salting and hashing, and student data is stored on a database. 
+
+> The project documents provide a clear semantic understanding of the project and it includes many software engineering/ development principles. 
+
 To test the application, follow the following:
 1.	Install dependencies: PHP 7, MySQL, JSON, AJAX
 2.	To test the system on a virtual network, install XAMPP.
