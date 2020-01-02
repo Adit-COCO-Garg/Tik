@@ -18,5 +18,5 @@ To test the application, follow the following:
 
 
 
-### Note: This project was built while I was in highschool and had just started learning web development. It's broken, the security can be easily bypassed and has a lot of bugs. It was all done in 1 month under a lot of pressure while in IB(International Beclaurete). I deleted this repo initially as it didn't live up to my standards. Now with a greater understanding of developing software This is a side project that I will be working on to fix.
-### Due to a lot of ongoing projects, classes, and genreal life stuff the documentation for this repo is still on the back burner ✌
+> Note: This project was built while I was in highschool and had just started learning web development. It's broken, the security can be easily bypassed and has a lot of bugs. It was all done in 1 month under a lot of pressure while in IB(International Beclaurete). I deleted this repo initially as it didn't live up to my standards. Now with a greater understanding of developing software This is a side project that I will be working on to fix.
+#### Due to a lot of ongoing projects, classes, and genreal life stuff the documentation for this repo is still on the back burner ✌
